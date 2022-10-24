@@ -12,7 +12,12 @@
 - R 
 - Javascript
 
-### Please do:
+### Task Lists:
 - [X] Write the code
 - [ ] Write all test
 - [ ] Write documentation
+
+### Code snippet
+```python
+mylist = [x*x for x in range(1,11)]
+```
