@@ -29,3 +29,8 @@ for(int i=0 ; i < 5 ; i++)
 System.out.println("i is : " + i);
 }
 ```
+### Emojis
+I :eyes: that :bug: and I :cold_sweat:.
+:trophy: for :microscope: it.
+:+1: and :sparkles: on this :ship:, it's :fire::poop:!
+:clap::tada::panda_face:
